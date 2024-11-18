@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "157558154957",
+    "project_id": "foodico-9a875",
+    "storage_bucket": "foodico-9a875.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157558154957:android:9b1704cdadc4406276ab84",
+        "android_client_info": {
+          "package_name": "com.example.fa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157558154957-1stm99t8smmclornjgbis9li2tqio438.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fa",
+            "certificate_hash": "c18bed8df4a959a561796b58837cf65ee0985d4d"
+          }
+        },
+        {
+          "client_id": "157558154957-hn252q6u1hu2b9tgmlefhvnso41pcd0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZTg-VcCJIYj6874cUAv0DAUwTFbnWQLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157558154957-hn252q6u1hu2b9tgmlefhvnso41pcd0s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
